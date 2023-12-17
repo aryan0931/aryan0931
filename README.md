@@ -23,3 +23,5 @@ I'm open to collaboration on projects related to machine learning, software deve
 Feel free to reach out if you share similar interests or have exciting collaboration opportunities. You can connect with me on [LinkedIn](www.linkedin.com/in/aryan-yadav-64b210258) or drop me an email at aryan.yadav.mec22@itbhu.ac.in.
 
 Let's code, learn, and innovate together! 🚀
+
+https://github-readme-stats.vercel.app/api?username=aryan0931&theme=radical
