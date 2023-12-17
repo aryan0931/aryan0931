@@ -24,4 +24,4 @@ Feel free to reach out if you share similar interests or have exciting collabora
 
 Let's code, learn, and innovate together! 🚀
 
-https://github-readme-stats.vercel.app/api?username=aryan0931&theme=radical
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryan0931 &theme=radical)
