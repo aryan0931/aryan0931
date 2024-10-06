@@ -14,7 +14,7 @@ I'm a passionate software developer with a keen interest in machine learning. Cu
 
 I'm on a perpetual journey of growth. Currently, I'm honing my skills in web development, aiming to expand my expertise and contribute to cutting-edge projects.
 
-## 💞 Looking to Collaborate On:
+##  Looking to Collaborate On:
 
 I'm open to collaboration on projects related to machine learning, software development, or any endeavor that aligns with my interests. Let's join forces to create something remarkable!
 
