@@ -20,7 +20,7 @@ I'm open to collaboration on projects related to machine learning, software deve
 
 ## 📫 How to Reach Me:
 
-Feel free to reach out if you share similar interests or have exciting collaboration opportunities. You can connect with me on [LinkedIn](www.linkedin.com/in/aryan-yadav-64b210258) or drop me an email at [Mail](aryan.yadav.mec22@itbhu.ac.in).
+Feel free to reach out if you share similar interests or have exciting collaboration opportunities. You can connect with me on [LinkedIn](www.linkedin.com/in/aryan-yadav-64b210258) or drop me an email at aryan.yadav.mec22@itbhu.ac.in
 
 Let's code, learn, and innovate together! 🚀
 
